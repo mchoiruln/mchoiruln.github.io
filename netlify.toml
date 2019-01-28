@@ -1,3 +1,0 @@
-[context.dev]
-  command = "deploy 'dev' branch"
-  base = "dev"
