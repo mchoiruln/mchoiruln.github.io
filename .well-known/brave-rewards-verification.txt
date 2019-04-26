@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mchoiruln.github.io
+Token: 655e4ff36059d8124b38f94a1f5cb1e4362a96bc1bf22094817559aa783af057
